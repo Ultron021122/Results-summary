@@ -15,8 +15,17 @@ body {
 .bg-cobalt-gradient {
    background: linear-gradient(180deg, hsl(252, 73%, 64%), hsl(241, 81%, 54%))
 }
+.bg-light-royal {
+   color:hsl(241, 81%, 54%);
+}
 .bg-violet-blue {
    background-color: rgb(78, 33, 202);
+}
+.text-dark-blue {
+   color:hsl(224, 30%, 27%);
+}
+.bg-dark-blue {
+   background-color: hsl(224, 30%, 27%);
 }
 .bg-persian-blue {
    background-color: rgba(36, 33, 202, 0);
