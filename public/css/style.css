@@ -33,3 +33,13 @@ body {
 .bg-circle-gradient {
    background: linear-gradient(0deg,rgba(36, 33, 202, 0),rgb(78, 33, 202) );
 }
+.h-screen-in {
+   height: 95vh;
+}
+.attribution {
+   font-size: 11px;
+   text-align: center;
+}
+.attribution a { 
+   color: hsl(228, 45%, 44%); 
+}
